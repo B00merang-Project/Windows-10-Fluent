@@ -3,7 +3,7 @@
 # date: April 7th, 2016
 # description: Windows 10 Dark Granite color
 
-gtk-color-scheme = "bg_color:#1f1f1f\nfg_color:#000\nbase_color:#fff\ntext_color:#4c4c4c\nselected_bg_color:#1ba0e1\nselected_fg_color:#fff\ntooltip_bg_color:#393939\ntooltip_fg_color:#cecece\ntitlebar_bg_color:#393939\ntitlebar_fg_color:#cecece\nmenubar_bg_color:#393939\nmenubar_fg_color:#cecece\ntoolbar_bg_color:#393939\ntoolbar_fg_color:#c9c9c9\nmenu_bg_color:#393939\nmenu_fg_color:#cecece\npanel_bg_color:#393939\npanel_fg_color:#cecece\nlink_color:#224ba0\nbg_color_dark:#000000\nfg_color_dark:#cecece\ncheckradio_fg_color:#4c4c4c"
+gtk-color-scheme = "bg_color:#f1f1f1\nfg_color:#000\nbase_color:#fff\ntext_color:#4c4c4c\nselected_bg_color:#1ba0e1\nselected_fg_color:#fff\ntooltip_bg_color:#f1f1f1\ntooltip_fg_color:#000\ntitlebar_bg_color:#f1f1f1\ntitlebar_fg_color:#000\nmenubar_bg_color:#f1f1f1\nmenubar_fg_color:#000\ntoolbar_bg_color:#f1f1f1\ntoolbar_fg_color:#000\nmenu_bg_color:#f1f1f1\nmenu_fg_color:#000\npanel_bg_color:#000\npanel_fg_color:#fff\nlink_color:#224ba0\nbg_color_dark:#f1f1f1\nfg_color_dark:#000\ncheckradio_fg_color:#000"
 
 # Scrollbar colors
 gtk-color-scheme = "scrollpress_bg_color:#333333\nscrollhover_bg_color:#2b2b2b\nscrollnorm_bg_color:#262626"
