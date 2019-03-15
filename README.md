@@ -1,7 +1,7 @@
-# Windows-10-Mobile
-### GTK theme based on the Windows 10 Mobile and UWP apps appearance
+# Windows 10 Acrylic
+### GTK theme based on the appearance of Microsoft's latest design guidelines, dark version
 
-![windows-10-mobile](https://b00merang.weebly.com/uploads/1/6/8/1/16813022/screenshot-from-2018-04-13-11-54-21_orig.png)
+![windows-10-acrylic](https://github.com/B00merang-Project/gallery/raw/master/Windows%2010%20Acrylic%20(3).png)
 
 **Maintainer :** [Elbullazul](https://github.com/Elbullazul)
 
@@ -9,7 +9,7 @@
 
 **License :** GPL v3
 
-**More info :** http://b00merang.weebly.com/windows-10-mobile.html
+**More info :** http://b00merang.weebly.com/windows-10-acrylic.html
 
 ### Manual installation
 
