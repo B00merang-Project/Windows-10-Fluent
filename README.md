@@ -6,6 +6,8 @@ GTK theme based on the appearance of Microsoft's latest design guidelines
 
 ![windows-10-acrylic](https://github.com/B00merang-Project/gallery/raw/master/Windows%2010%20Acrylic%20(3).png)
 
+### [Dark theme available here](https://github.com/B00merang-Project/Windows-10-Acrylic-Dark) ###
+
 **Maintainer :** [Elbullazul](https://github.com/Elbullazul)
 
 **Distributor :** [B00merang Project](https://github.com/B00merang-Project)
